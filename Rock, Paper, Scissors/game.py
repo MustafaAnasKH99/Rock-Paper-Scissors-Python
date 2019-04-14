@@ -20,7 +20,7 @@ if player == computer:
 elif player == 'r' and computer == 'p':
     print('Computer Won!')
 elif player == 'r' and computer == 's':
-    print('Player Won!')
+    print('You Won!')
 
 #Player choosing Paper cases:
 elif player == 'p' and computer == 'r':
